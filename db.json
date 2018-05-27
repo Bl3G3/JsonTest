@@ -1,14 +1,30 @@
-[
-  {
-    "articleNumber": 1,
-    "articleName": "Honigkuchen"
-  },
-  {
-    "articleNumber": 2,
-    "articleName": "Apfelkuchen"
-  },
-  {
-    "articleNumber": 3,
-    "articleName": "Kaesekuchen"
-  }
-]
+{
+    "articles": [
+    {
+      "articleNumber": 1,
+      "articleName": "Honigkuchen"
+    },
+    {
+      "articleNumber": 2,
+      "articleName": "Apfelkuchen"
+    },
+    {
+      "articleNumber": 3,
+      "articleName": "Kaesekuchen"
+    }
+    ],
+    "customers": [
+    {
+      "customerNumber": 1,
+      "lastName": "Honigkuchen"
+    },
+    {
+      "customerNumber": 2,
+      "lastName": "Apfelkuchen"
+    },
+    {
+      "customerNumber": 3,
+      "lastName": "Kaesekuchen"
+    }
+    ] 
+}
