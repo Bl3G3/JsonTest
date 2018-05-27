@@ -1,29 +1,29 @@
 {
     "articles": [
     {
-      "articleNumber": 1,
+      "id": 1,
       "articleName": "Honigkuchen"
     },
     {
-      "articleNumber": 2,
+      "id": 2,
       "articleName": "Apfelkuchen"
     },
     {
-      "articleNumber": 3,
+      "id": 3,
       "articleName": "Kaesekuchen"
     }
     ],
     "customers": [
     {
-      "customerNumber": 1,
+      "id": 1,
       "lastName": "Honigkuchen"
     },
     {
-      "customerNumber": 2,
+      "id": 2,
       "lastName": "Apfelkuchen"
     },
     {
-      "customerNumber": 3,
+      "id": 3,
       "lastName": "Kaesekuchen"
     }
     ] 
